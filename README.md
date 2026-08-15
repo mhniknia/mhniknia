@@ -13,6 +13,7 @@ const dev = {
   role: "Front-End Developer",
   status: "Crafting clean interfaces pixel by pixel"
 };
+```
 
 ---
 
