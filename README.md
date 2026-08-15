@@ -26,7 +26,6 @@ const dev = {
   <img src="https://api.iconify.design/skill-icons:git.svg" width="48" height="48" alt="Git" />
   <img src="https://api.iconify.design/skill-icons:gitlab-dark.svg" width="48" height="48" alt="GitLab" />
   <img src="https://api.iconify.design/skill-icons:figma-dark.svg" width="48" height="48" alt="Figma" />
-  <img src="https://api.iconify.design/skill-icons:xd-dark.svg" width="48" height="48" alt="Adobe XD" />
 </div>
 
 ---
