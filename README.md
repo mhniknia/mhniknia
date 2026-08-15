@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Hadi
+# Hi, I'm Mohammad Hadi 
 
 **Front-End Developer**  
 Currently building responsive, pixel-perfect web interfaces  
@@ -19,14 +19,8 @@ const dev = {
 
 ### Tech & Tools Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,gitlab" alt="My Tech Stack" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,gitlab)](https://skillicons.dev)
 
 ---
 
-```text
-”
-Details matter, it’s worth waiting to get it right.
-                                        ” — Steve Jobs
-```
+<img width="100%" alt="quote_v2" src="https://github.com/user-attachments/assets/467bffbe-7dd1-4ea5-b4a5-277fc9890956" />
