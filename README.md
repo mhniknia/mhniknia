@@ -19,7 +19,7 @@ const dev = {
 
 ### Tech & Tools Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,gitlab,markdown)](https://skillicons.dev)
 
 ---
 
