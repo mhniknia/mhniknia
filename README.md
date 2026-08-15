@@ -26,4 +26,5 @@ const dev = {
 
 ---
 
-<img width="100%" alt="quote_v2" src="https://github.com/user-attachments/assets/467bffbe-7dd1-4ea5-b4a5-277fc9890956" />
+<img width="100%" alt="quote_v3 (2)" src="https://github.com/user-attachments/assets/79fd94fe-d1a2-4164-aa38-b6793e5ce065" />
+
