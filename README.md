@@ -11,7 +11,9 @@ Currently learning **Advanced JavaScript & TypeScript** ⚡
 const dev = {
   name: "Mohammad Hadi",
   role: "Front-End Developer",
-  status: "Crafting clean interfaces pixel by pixel"
+  education: "Computer Engineering Student 🎓",
+  location: "Shiraz, Iran 📍",
+  stack: ["HTML5", "CSS3", "JavaScript (ES6+)", "Git"]
 };
 ```
 
