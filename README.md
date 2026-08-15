@@ -20,12 +20,7 @@ const dev = {
 ### Tech & Tools Stack
 
 <p>
-  <img src="https://api.iconify.design/skill-icons:html.svg" width="48" height="48" alt="HTML5" />
-  <img src="https://api.iconify.design/skill-icons:css.svg" width="48" height="48" alt="CSS3" />
-  <img src="https://api.iconify.design/skill-icons:javascript.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://api.iconify.design/skill-icons:git.svg" width="48" height="48" alt="Git" />
-  <img src="https://api.iconify.design/skill-icons:gitlab-dark.svg" width="48" height="48" alt="GitLab" />
-  <img src="https://api.iconify.design/skill-icons:figma-dark.svg" width="48" height="48" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,gitlab,figma" alt="My Tech Stack" />
 </p>
 
 ---
