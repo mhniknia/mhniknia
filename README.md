@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mohammad Hadi
 
-<!--
-**mhniknia/mhniknia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Developer & UI/UX Designer**  
+Currently building responsive, pixel-perfect web interfaces  
+Focused on modern Web Architecture & Clean Code  
+Currently learning **Advanced JavaScript & TypeScript** ⚡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech & Tools Stack
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://api.iconify.design/skill-icons:html.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://api.iconify.design/skill-icons:css.svg" width="48" height="48" alt="CSS3" />
+  <img src="https://api.iconify.design/skill-icons:javascript.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://api.iconify.design/skill-icons:git.svg" width="48" height="48" alt="Git" />
+  <img src="https://api.iconify.design/skill-icons:gitlab-dark.svg" width="48" height="48" alt="GitLab" />
+  <img src="https://api.iconify.design/skill-icons:figma-dark.svg" width="48" height="48" alt="Figma" />
+  <img src="https://api.iconify.design/skill-icons:xd-dark.svg" width="48" height="48" alt="Adobe XD" />
+</div>
+
+---
