@@ -19,7 +19,7 @@ const dev = {
 
 ### Tech & Tools Stack
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<div style="display: flex; gap: 50px; align-items: center;">
   <img src="https://api.iconify.design/skill-icons:html.svg" width="48" height="48" alt="HTML5" />
   <img src="https://api.iconify.design/skill-icons:css.svg" width="48" height="48" alt="CSS3" />
   <img src="https://api.iconify.design/skill-icons:javascript.svg" width="48" height="48" alt="JavaScript" />
