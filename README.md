@@ -7,6 +7,15 @@ Currently learning **Advanced JavaScript & TypeScript** ⚡
 
 ---
 
+```javascript
+const dev = {
+  name: "Mohammad Hadi",
+  role: "Front-End Developer",
+  status: "Crafting clean interfaces pixel by pixel"
+};
+
+---
+
 ### Tech & Tools Stack
 
 <div style="display: flex; gap: 10px; align-items: center;">
