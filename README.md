@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Hadi
 
-**Front-End Developer & UI/UX Designer**  
+**Front-End Developer**  
 Currently building responsive, pixel-perfect web interfaces  
 Focused on modern Web Architecture & Clean Code  
 Currently learning **Advanced JavaScript & TypeScript** ⚡
@@ -20,7 +20,13 @@ const dev = {
 ### Tech & Tools Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,gitlab,figma" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,gitlab" alt="My Tech Stack" />
 </p>
 
 ---
+
+```text
+”
+Details matter, it’s worth waiting to get it right.
+                                        ” — Steve Jobs
+```
