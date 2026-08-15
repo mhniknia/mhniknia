@@ -1,5 +1,5 @@
 
-#  Hi, I'm Mohammad Hadi <img src="https://github.com/user-attachments/assets/4555ed96-40b9-4f3f-8bc9-77ccd09d5bb4" width="40" alt="Ghibli GIF"  />
+#  Hi, I'm Mohammad Hadi <sub><img src="https://github.com/user-attachments/assets/4555ed96-40b9-4f3f-8bc9-77ccd09d5bb4" width="40" alt="Ghibli GIF"  /><sub>
 
 **Front-End Developer**  
 Currently building responsive, pixel-perfect web interfaces  
