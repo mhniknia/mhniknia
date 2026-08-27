@@ -22,7 +22,7 @@ const dev = {
 
 ### Tech & Tools Stack
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mhniknia&theme=tokyonight&layout=compact)](https://wakatime.com/@mhniknia)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,gitlab,markdown)](https://skillicons.dev)
 
 ---
 
