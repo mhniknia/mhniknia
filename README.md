@@ -22,7 +22,7 @@ const dev = {
 
 ### Tech & Tools Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,gitlab,markdown)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,git,postman,eslint=true)
 
 ---
 
