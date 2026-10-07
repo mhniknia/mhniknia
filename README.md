@@ -22,7 +22,7 @@ const dev = {
 
 ### Tech & Tools Stack
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,git,postman,eslint=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,git,postman,eslint,github=true)
 
 ---
 
